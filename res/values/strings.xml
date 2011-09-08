@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FibonacciActivity!</string>
+    <string name="app_name">Fibonacci</string>
+    <string name="textLabel">Fibonacci sequence input:</string>
+    <string name="buttonSubmit">Calculate!</string>
+    <string name="resultsString">Results will be shown here</string>
+</resources>
