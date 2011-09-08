@@ -1,1 +1,3 @@
 this is an android project that demonstrates the native development kit to write native code and include it in android applications. This app measures the difference in run time between native code and java code.
+
+to build this app you need to not only have android sdk installed, but also android ndk, which you can find by googling. The native libraries are in the jni folder.
